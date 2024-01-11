@@ -1,0 +1,56 @@
+main {
+  background-color: rgb(9, 12, 206);
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 900px;
+}
+
+section {
+  color: rgb(88, 92, 87);
+  text-align: center;
+  background-color: rgb(13, 107, 184);
+  width: 1200px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 10px;
+}
+
+h1 {
+  text-align: center;
+  background-color: rgb(54, 56, 44);
+}  
+
+div {
+  text-align: center;
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-right: 10px;
+  padding-left: 10px;
+
+}
+
+h5 {
+  color: rgb(204, 161, 19);
+  background-color: rgb(227, 231, 0);
+  margin-left:  70px;
+  margin-right: 70px ;
+  display: block;
+  text-align: center;
+  padding: 4px;
+}
+
+p {
+  background-color: rgb(50, 153, 84);
+  padding: 4px;
+}
+
+a {
+  margin: 15px 20px;
+  background-color: rgb(50, 90, 77);
+  padding: 4px;
+
+}
