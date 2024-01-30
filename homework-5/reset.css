@@ -35,3 +35,7 @@ body {
   font-weight: 400;
   font-family: Roboto;
 }
+img {
+  display: block;
+  width: 100%;
+} 
